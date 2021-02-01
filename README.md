@@ -33,3 +33,9 @@ Finish the second and third document started for v2.0
 Ajouter des annexes utiles (fiche techniques d'ensembles particuliers important, lexique, etc).
 
 Add some useful annexes (technical summary of specific important sets, lexicon, etc).
+
+
+
+### Si vous remarquez une erreur de typesetting LaTeX ou dans les mathématiques elles-mêmes, merci de soumettre une issue avec le numéro de la page où se situe le problème.
+
+### If you notice any mistake in either LaTeX typesetting or the mathematics itself, please raise an issue with the number of the page you noticed the problem.
