@@ -6,7 +6,9 @@ A series of public math tutorials, both to learn LaTeX and have small modules to
 
 
 
-## V1.0 (FR only): un gros document sur les structures algébriques, l'arithmétique, les polynômes, et un bon brin d'analyse a été ajouté. Il s'agit à présent de travailler mieux les sujets ébauchés, puis de diviser le document en modules plus petits, organisés et efficaces.
+## V1.0 (FR only):
+
+Un gros document sur les structures algébriques, l'arithmétique, les polynômes, et un bon brin d'analyse a été ajouté. Il s'agit à présent de travailler mieux les sujets ébauchés, puis de diviser le document en modules plus petits, organisés et efficaces.
 
 
 
