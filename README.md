@@ -18,7 +18,11 @@ Fait la traduction, et commencé la division du précédent document en 3 morcea
 
 Finished the translation, and started the division of the preceding document into 3 modules: the first on set theory, boolean logic, algebraic structures and category theory; the second on linear algebra, topology, analysis, and multivariable calculus; the third on arithmetic, rings, and polynomials. Added only the first document to this public repo.
 
+## V2.0.1 (FR/EN):
 
+Quelques corrections dans le LaTeX ou le contenu du doc 01. Ajouté une V1 du document sur les nombres complexes en FR.
+
+Minor fixes to doc 01. Added a V1 of the annex document on complex numbers in EN.
 
 ## V2.1 (FR/EN, en cours/in progress):
 
